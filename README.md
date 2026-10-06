@@ -50,6 +50,9 @@ My portfolio demonstrates deep domain expertise in:
 | **[Financial Analyst Agent](https://github.com/thookham/financial-analyst-agent)** | FinTech / AI | Python 3.11+, Streamlit, Gemini Pro | Institutional financial valuation platform combining compliant SEC EDGAR ingestion, automated PDF earnings parser, DCF modeling with CAPM/WACC sensitivity, and AI risk synthesis. |
 | **[InvestorScope / ResRe](https://github.com/thookham/ResRe-landlord-finder)** | PropTech / Full-Stack | Next.js 14, React, TypeScript | Comprehensive real estate investment dashboard with property tax calculation, ownership discovery, and ROI modeling. |
 | **[Tron PowerShell](https://github.com/thookham/tron_PowerShell)** | Systems Engineering | PowerShell 5.1 / 7+ | Modular Windows enterprise maintenance, debloater, and remediation framework. |
+| **[ShadowScrub](https://github.com/thookham/ShadowScrub)** | OSINT / Privacy | Python, Typer, Rich, NetworkX | Automated digital footprint reconnaissance, telephony and email breach exposure profiling, and identity graph risk scoring engine. |
+| **[RefineryOpt](https://github.com/thookham/RefineryOpt)** | Industrial AI / Optimization | Python, Scipy LP, Streamlit | Mathematical refinery economics, process unit kinetics (CDU/FCC/Reformer), non-linear ASTM D4814 gasoline blending, and Monte Carlo risk modeling. |
+| **[EmailAgent](https://github.com/thookham/EmailAgent)** | Legal Tech / AI Agents | FastAPI, Gemini AI, React | Intelligent email triage and deadline parser with automated legal routing and tone-adaptive executive response drafting. |
 
 ---
 
