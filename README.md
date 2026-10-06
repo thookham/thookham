@@ -55,6 +55,7 @@ My portfolio demonstrates deep domain expertise in:
 | **[EmailAgent](https://github.com/thookham/EmailAgent)** | Legal Tech / AI Agents | FastAPI, Gemini AI, React | Intelligent email triage and deadline parser with automated legal routing and tone-adaptive executive response drafting. |
 | **[ChronologyForge for Clio](https://github.com/thookham/chronology-forge)** | Legal AI / B2B SaaS | Python, FastAPI, Gemini Pro, Clio v4 API | Automated medical record extraction, ICD-10 diagnostic code mapping, and bidirectional Clio Manage v4 matter timeline synchronizer. |
 | **[AuctionClear TX](https://github.com/thookham/auction-clear-tx)** | PropTech / FinTech SaaS | Python, FastAPI, HCAD Scrapers, Title Risk | Texas foreclosure auction intelligence platform evaluating Tex. Tax Code § 33.44 joinder, IRS 120-day redemptions, and MAO underwriting. |
+| **[DocketFlow AI](https://github.com/thookham/docket-flow-ai)** | Legal AI / LitTech SaaS | Python, FastAPI, CourtListener, FRCP Rule 6 | Autonomous federal court docket monitoring, FRCP Rule 6 statutory deadline calculator, and AI motion triage engine. |
 
 ---
 
