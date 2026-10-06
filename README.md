@@ -53,6 +53,8 @@ My portfolio demonstrates deep domain expertise in:
 | **[ShadowScrub](https://github.com/thookham/ShadowScrub)** | OSINT / Privacy | Python, Typer, Rich, NetworkX | Automated digital footprint reconnaissance, telephony and email breach exposure profiling, and identity graph risk scoring engine. |
 | **[RefineryOpt](https://github.com/thookham/RefineryOpt)** | Industrial AI / Optimization | Python, Scipy LP, Streamlit | Mathematical refinery economics, process unit kinetics (CDU/FCC/Reformer), non-linear ASTM D4814 gasoline blending, and Monte Carlo risk modeling. |
 | **[EmailAgent](https://github.com/thookham/EmailAgent)** | Legal Tech / AI Agents | FastAPI, Gemini AI, React | Intelligent email triage and deadline parser with automated legal routing and tone-adaptive executive response drafting. |
+| **[ChronologyForge for Clio](https://github.com/thookham/chronology-forge)** | Legal AI / B2B SaaS | Python, FastAPI, Gemini Pro, Clio v4 API | Automated medical record extraction, ICD-10 diagnostic code mapping, and bidirectional Clio Manage v4 matter timeline synchronizer. |
+| **[AuctionClear TX](https://github.com/thookham/auction-clear-tx)** | PropTech / FinTech SaaS | Python, FastAPI, HCAD Scrapers, Title Risk | Texas foreclosure auction intelligence platform evaluating Tex. Tax Code § 33.44 joinder, IRS 120-day redemptions, and MAO underwriting. |
 
 ---
 
